@@ -1,0 +1,14 @@
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\bin\Debug\netcoreapp2.1\RegisterServices.deps.json
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\bin\Debug\netcoreapp2.1\RegisterServices.runtimeconfig.json
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\bin\Debug\netcoreapp2.1\RegisterServices.runtimeconfig.dev.json
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\bin\Debug\netcoreapp2.1\RegisterServices.dll
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\bin\Debug\netcoreapp2.1\RegisterServices.pdb
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.csprojAssemblyReference.cache
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.csproj.CoreCompileInputs.cache
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.RazorAssemblyInfo.cache
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.RazorAssemblyInfo.cs
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.AssemblyInfoInputs.cache
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.AssemblyInfo.cs
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.RazorTargetAssemblyInfo.cache
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.dll
+C:\Users\Ekaterina\source\repos\RegisterServices\RegisterServices\obj\Debug\netcoreapp2.1\RegisterServices.pdb
